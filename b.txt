@@ -1,0 +1,3 @@
+First Line in b.txt is Nikhil Kumar Mahto
+He is a Full stack Developer
+Works in Python Angular And React
