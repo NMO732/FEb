@@ -1,0 +1,2 @@
+This is extention file of e.txt which was removed
+Ok Man
