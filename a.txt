@@ -1,1 +1,3 @@
 First Line in a.txt is Nikhil Kumar Mahto
+I am from UP
+I got a new Job
